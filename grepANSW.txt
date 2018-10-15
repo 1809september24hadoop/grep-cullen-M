@@ -1,0 +1,10 @@
+1. grep -i ^z cities.txt
+2. grep -i gan$ cities.txt
+3. grep ^[A,D,E] cities.txt
+4. grep -i '\<.ar' cities.txt
+5. grep -i '^[^C]' cities.txt
+6. grep -c '.{14,}' cities.txt
+7. grep -ic '^B' cities.txt
+8. grep -c '[d]' cities.txt
+9. grep -E '(.)\1{1}$' cities.txt
+10. could not figure out a correct answer
